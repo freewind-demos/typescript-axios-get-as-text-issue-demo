@@ -5,6 +5,7 @@ Even we specified `responseType` is `text` in axios, axios still parse the strin
 
 ```
 npm install
-npm run demo
+npm run server
+npm run client
 ```
 
